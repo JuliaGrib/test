@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    
+}
+
+.slider {
+    height: 100%;
+    position: fixed;
+}
+.slider img {
+    width: 65vw;
+    height: 100vh;
+    object-fit: cover;
+}
+.info {
+    padding: 10px;
+    width: 32vw;
+    position: absolute;
+    right: 0;
+}
